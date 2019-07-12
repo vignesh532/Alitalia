@@ -30,6 +30,8 @@ System.setProperty("webdriver.chrome.driver", "C:\\Users\\SUTHAKAR\\eclipse-work
 		System.out.println("bala");
 		System.out.println("karthi");
 		System.out.println("bba");
+		System.out.println("kkkk");
+		System.out.println("rose");
 	}
 
 }

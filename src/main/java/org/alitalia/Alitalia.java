@@ -24,7 +24,9 @@ System.setProperty("webdriver.chrome.driver", "C:\\Users\\SUTHAKAR\\eclipse-work
 		search.sendKeys("Chennai to Delhi");
 		WebElement ok = driver.findElement(By.xpath("(//button[@type='submit'])[2]"));
 		ok.click();
+		driver.findElement(By.xpath("(//span[contains(text(),'International')])[2]"));
 		System.out.println("Button clicked.............");
+		
 	}
 
 }

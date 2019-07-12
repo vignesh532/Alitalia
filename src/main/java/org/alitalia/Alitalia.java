@@ -26,7 +26,10 @@ System.setProperty("webdriver.chrome.driver", "C:\\Users\\SUTHAKAR\\eclipse-work
 		ok.click();
 		driver.findElement(By.xpath("(//span[contains(text(),'International')])[2]"));
 		System.out.println("Button clicked.............");
-		
+		System.out.println("hhhh");
+		System.out.println("bala");
+		System.out.println("karthi");
+		System.out.println("bba");
 	}
 
 }

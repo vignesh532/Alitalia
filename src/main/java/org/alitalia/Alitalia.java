@@ -9,7 +9,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Alitalia {
 	
-	public static void main(String[] args) {
+	public static void 
+(String[] args) {
 	
 System.setProperty("webdriver.chrome.driver", "C:\\Users\\SUTHAKAR\\eclipse-workspace\\SecondProgram\\driver\\chromedriver.exe");
 		
@@ -30,6 +31,7 @@ System.setProperty("webdriver.chrome.driver", "C:\\Users\\SUTHAKAR\\eclipse-work
 		System.out.println("bala");
 		System.out.println("karthi");
 		System.out.println("bba");
+		System.out.println("rose");
 	}
 
 }

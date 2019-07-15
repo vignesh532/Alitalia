@@ -44,6 +44,8 @@ System.setProperty("webdriver.chrome.driver", "C:\\Users\\SUTHAKAR\\eclipse-work
 		System.out.println("rose");
 		System.out.println("KB");
 		MarginBorder("karthi bala" );
+		System.out.println("Mani");
+		System.out.println("bala");
 
 	}
 

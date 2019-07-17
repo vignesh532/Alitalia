@@ -46,6 +46,10 @@ System.setProperty("webdriver.chrome.driver", "C:\\Users\\SUTHAKAR\\eclipse-work
 		MarginBorder("karthi bala" );
 		System.out.println("Mani");
 		System.out.println("bala");
+		for(i=1;i<=5;i++)
+		{
+			System.out.println("success");
+		}
 
 	}
 

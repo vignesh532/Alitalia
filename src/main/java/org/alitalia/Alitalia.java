@@ -51,6 +51,10 @@ System.setProperty("webdriver.chrome.driver", "C:\\Users\\SUTHAKAR\\eclipse-work
 			System.out.println("success");
 		}
 		System.out.println("conflict");
+		for (String x : l) {
+			System.out.println("action");
+			
+		}
 
 
 

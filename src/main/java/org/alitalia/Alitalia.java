@@ -25,6 +25,7 @@ System.setProperty("webdriver.chrome.driver", "C:\\Users\\SUTHAKAR\\eclipse-work
 		WebElement ok = driver.findElement(By.xpath("(//button[@type='submit'])[2]"));
 		ok.click();
 		System.out.println("Button clicked.............");
+		System.out.println("cc");
 	}
 
 }

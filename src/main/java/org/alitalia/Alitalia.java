@@ -2,6 +2,8 @@ package org.alitalia;
 
 import java.util.List;
 
+import javax.swing.plaf.basic.BasicBorders.MarginBorder;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -40,6 +42,15 @@ System.setProperty("webdriver.chrome.driver", "C:\\Users\\SUTHAKAR\\eclipse-work
 		System.out.println("kb");
 		System.out.println("cccc");
 		System.out.println("rose");
+		System.out.println("KB");
+		MarginBorder("karthi bala" );
+		System.out.println("Mani");
+		System.out.println("bala");
+		for(i=1;i<=5;i++)
+		{
+			System.out.println("success");
+		}
+		System.out.println("conflict");
 
 	}
 
